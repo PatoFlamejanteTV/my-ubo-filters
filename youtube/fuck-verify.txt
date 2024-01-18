@@ -1,0 +1,3 @@
+!  fuck-verify.txt BY: PatoFlamejanteTV
+!  idk if works on mobile, test yourself.
+www.youtube.com##yt-icon.ytd-badge-supported-renderer.style-scope > .yt-icon.style-scope > .yt-spec-icon-shape > div
