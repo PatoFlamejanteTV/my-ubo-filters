@@ -1,0 +1,16 @@
+!   anti-phising.txt
+!     By: PatoFlamejanteTV
+
+||*cdn*^$all
+||*track*^$all
+||*log*^$all
+||*ad*^$doc
+||*click*^$all
+||*bet*^$all
+||*embed*^$all
+!||*track*^$all
+||*xiaomi*^$all
+||*miui*^$all
+||*amazonaws*^$all
+||*analytics*^$all
+||*casino*^$all
