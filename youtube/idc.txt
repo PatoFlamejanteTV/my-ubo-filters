@@ -1,0 +1,7 @@
+! I DONT CARE      | Made by:
+!   ABOUT THE VIDEO|   PatoFlamejanteTV
+!      CREATOR     |      https://github.com/PatoFlamejanteTV/my-ubo-filters
+
+www.youtube.com##yt-button-view-model.ytd-menu-renderer.style-scope:nth-of-type(1)
+www.youtube.com###sponsor-button
+www.youtube.com##yt-button-view-model.ytd-menu-renderer.style-scope:nth-of-type(2)
