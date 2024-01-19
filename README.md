@@ -1,11 +1,23 @@
-# <center>Ultimate Ublock Filter List</center>
+***
 
+<h1 align="center">
+<sub>
+<img src="https://github.com/gorhill/uBlock/blob/master/src/img/ublock.svg" height="38" width="38">
+</sub>
+Ultimate Ublock Origin Lists
+  
 <a href="https://github.com/PatoFlamejanteTV/my-ubo-filters"><img src="https://img.shields.io/badge/open--source-yes-green"></a>
 <a href="https://github.com/PatoFlamejanteTV/my-ubo-filters"><img src="https://img.shields.io/badge/license-ART--2.0-orange"></a> 
 <a href="https://github.com/PatoFlamejanteTV/my-ubo-filters"><img src="https://img.shields.io/badge/contributions-welcome-green"></a>
+![Badge Commits]
+</h1>
+
+***
 
 Custom rules I made myself in mid 2023 ~ 2024.
 
 **Feel *free* to use, modify, configure, add, reduce information from my rules. But remember that you *do not* can redistribute "your" version (the "modified")**
 
 If you want to add your rules or correct bugs, **make an [pull request](https://github.com/PatoFlamejanteTV/my-ubo-filters/branches) or create a [issue](https://github.com/PatoFlamejanteTV/my-ubo-filters/issues).**
+
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/patoflamejantetv/my-ubo-filters?label=Commits
