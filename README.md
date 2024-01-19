@@ -1,4 +1,4 @@
-# Ultimate Ublock Filter List
+# <center>Ultimate Ublock Filter List</center>
 
 <a href="https://github.com/PatoFlamejanteTV/my-ubo-filters"><img src="https://img.shields.io/badge/open--source-yes-green"></a>
 <a href="https://github.com/PatoFlamejanteTV/my-ubo-filters"><img src="https://img.shields.io/badge/license-ART--2.0-orange"></a> 
