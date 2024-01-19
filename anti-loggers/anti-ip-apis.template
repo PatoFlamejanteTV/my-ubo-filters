@@ -1,0 +1,12 @@
+!    ANTI IP APIS
+!        Hides you from wtfismyip and other websites
+!             IT DOENST HIDE YOUR IP, IT JUST BLOCKS IP "API" WEBSITES
+!---------------------------------------------------------------------------------
+||*ip-api.com*^$all ! WORKS ON MOBILE (with any chromium or firefox based browser)
+||*ipapi*^$all      ! (only) MAYBE CAN WORK IN OTHER ADBLOCKS
+||*ipify*^$all      ! ------------------------------------------------------------
+||*ipapi.is*^$all   ! This list is updated atleast 1 time per week.
+||*ipinfo*^$all     ! And also, this custom filter is open source and
+||*ipwhois*^$all    ! allows anyone to add, modify, etc. this list!
+||*wtfismyip*^$all  ! 
+||*myip.wtf*^$all   ! 
