@@ -1,3 +1,4 @@
 fuck-verify.template linguist-language=AdBlock linguist-detectable
 idc.template linguist-language=AdBlock linguist-detectable
 block-goofy-videos.template linguist-language=AdBlock linguist-detectable
+block-not-kid-friendly.template linguist-language=AdBlock linguist-detectable
