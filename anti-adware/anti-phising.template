@@ -4,7 +4,7 @@
 ||*cdn*^$all
 ||*track*^$all
 ||*log*^$all
-||*ad*^$doc
+!||*ad*^$doc !remove the exclamation at the strat ONLY if you dont use youtube
 ||*click*^$all
 ||*bet*^$all
 ||*embed*^$all
