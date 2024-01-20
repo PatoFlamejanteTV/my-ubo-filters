@@ -23,9 +23,6 @@ If you want to add your rules or correct bugs, **make an [pull request](https://
 ## How to install?
 The installation is super simple, just open the Ublock Origin panel > Click on the gear icon > go to "Filters List"> Look for "Import"> Paste the Raw Link of the filters you want to install!
 
-### What?
-Just follow this step-by-step video!
-
-<video src='https://github.com/PatoFlamejanteTV/my-ubo-filters/raw/main/tutorial.mp4'/>
+![Step-by-step tutorial](https://github.com/PatoFlamejanteTV/my-ubo-filters/blob/main/tutorial.gif)
 
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/patoflamejantetv/my-ubo-filters?label=Commits
